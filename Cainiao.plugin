@@ -1,6 +1,7 @@
 #!name = 菜鸟去广告
 #!desc = 过滤菜鸟APP广告(由墨鱼脚本修改而来）
 #!icon = https://raw.githubusercontent.com/Keywos/rule/main/tv/app/144px/Cainiao.png
+#!homepage = https://github.com/shixiaodonga/Loon/edit/main
 #!author = Xiaod @ddgksf2013
 
 [Script]

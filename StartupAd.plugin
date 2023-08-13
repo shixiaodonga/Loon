@@ -1,6 +1,8 @@
-#!name=StartUp
-#!desc=StartUp
-#!icon=https://github.com/Toperlock/Quantumult/raw/main/icon/Doraemon/Doraemon-1073.png
+#!name=StartupAd Remove
+#!desc=去除app开屏广告
+#!icon=https://raw.githubusercontent.com/shixiaodonga/Loon/189815bc560156fb9da6cedc5739c332779be42e/icon/AD.jpg
+#!homepage = https://github.com/shixiaodonga/Loon/tree/main
+#!author = Xiaod @ddgksf2013
 
 [Rewrite]
 
